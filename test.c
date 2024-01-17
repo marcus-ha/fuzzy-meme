@@ -1,7 +1,7 @@
-int main();
+int main()
 {
-
-    printf("Life is pain.");
+    int lifepointsEX = 2;
+    printf("Life is awfully painful.I have %d point left", lifepointsEX);
 
     return 0;
 }
