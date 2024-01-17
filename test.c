@@ -3,7 +3,7 @@
 int main()
 {
     int lifepointsEX = 4;
-    bool yield = true;
+    bool yield = false;
     printf("Life is awfully painful.I have %d point left", lifepointsEX);
 
     return 0;
