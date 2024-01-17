@@ -1,5 +1,5 @@
 // I made some changes here, hope you don't mind!
-
+// actually I found a new bug!
 int main()
 {
     int lifepointsEX = 4;
@@ -8,5 +8,3 @@ int main()
     return 0;
 }
 // I made something here too.
-
-// lorem ipsum.
