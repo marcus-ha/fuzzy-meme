@@ -4,6 +4,7 @@ int main()
 {
     int lifepointsEX = 4;
     bool yield = false;
+    bool cool = true;
     printf("Life is awfully painful.I have %d point left", lifepointsEX);
 
     return 0;
