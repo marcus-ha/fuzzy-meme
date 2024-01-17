@@ -1,3 +1,5 @@
+// I made some changes here, hope you don't mind!
+
 int main()
 {
     int lifepointsEX = 23;
