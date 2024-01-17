@@ -1,6 +1,6 @@
 int main()
 {
-    int lifepointsEX = 2;
+    int lifepointsEX = 4;
     printf("Life is awfully painful.I have %d point left", lifepointsEX);
 
     return 0;
